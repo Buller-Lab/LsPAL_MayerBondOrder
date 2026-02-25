@@ -1,0 +1,78 @@
+MODEL 1
+REMARK minimizedAffinity -4.06054878
+REMARK minimizedRMSD -1
+REMARK  Name = *****
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_7
+REMARK    2  A    between atoms: C_9  and  C_11
+REMARK    3  A    between atoms: C_12  and  C_13
+REMARK    4  A    between atoms: C_13  and  O_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      72.445  71.177  50.270  0.00  0.00    +0.024 A 
+ATOM      2  C   UNL A   1      73.861  71.262  50.137  0.00  0.00    -0.072 A 
+ATOM      3  C   UNL A   1      74.402  71.123  48.838  0.00  0.00    -0.194 A 
+ATOM      4  C   UNL A   1      73.581  70.911  47.718  0.00  0.00    -0.527 A 
+ATOM      5  C   UNL A   1      72.194  70.830  47.868  0.00  0.00    -0.170 A 
+ATOM      6  C   UNL A   1      71.668  70.967  49.146  0.00  0.00    +0.034 A 
+ATOM      7  C   UNL A   1      74.854  71.486  51.244  0.00  0.00    +0.041 C 
+ATOM      8  N   UNL A   1      70.372  70.919  49.480  0.00  0.00    -0.279 N 
+ATOM      9  C   UNL A   1      71.504  71.253  51.318  0.00  0.00    +0.093 A 
+ATOM     10  N   UNL A   1      70.267  71.090  50.787  0.00  0.00    -0.173 NA
+ATOM     11  H   UNL A   1      69.564  70.772  48.835  0.00  0.00    +0.189 HD
+ENDROOT
+BRANCH   9  12
+ATOM     12  C   UNL A   1      71.687  71.466  52.776  0.00  0.00    +0.037 C 
+ATOM     13  C   UNL A   1      72.712  70.903  53.442  0.00  0.00    +0.093 C 
+BRANCH  13  14
+ATOM     14  C   UNL A   1      72.923  71.096  54.895  0.00  0.00    +0.330 C 
+ATOM     15  O   UNL A   1      72.050  70.809  55.701  0.00  0.00    -0.246 OA
+BRANCH  14  16
+ATOM     16  O   UNL A   1      74.100  71.596  55.327  0.00  0.00    -0.477 OA
+ATOM     17  H   UNL A   1      74.274  71.735  56.269  0.00  0.00    +0.295 HD
+ENDBRANCH  14  16
+ENDBRANCH  13  14
+ENDBRANCH   9  12
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK minimizedAffinity -4.03568792
+REMARK minimizedRMSD -1
+REMARK  Name = *****
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  C_7
+REMARK    2  A    between atoms: C_9  and  C_11
+REMARK    3  A    between atoms: C_12  and  C_13
+REMARK    4  A    between atoms: C_13  and  O_17
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      72.244  71.029  49.750  0.00  0.00    +0.024 A 
+ATOM      2  C   UNL A   1      70.869  70.909  49.395  0.00  0.00    -0.072 A 
+ATOM      3  C   UNL A   1      70.559  70.809  48.018  0.00  0.00    -0.194 A 
+ATOM      4  C   UNL A   1      71.562  70.826  47.036  0.00  0.00    -0.527 A 
+ATOM      5  C   UNL A   1      72.905  70.944  47.403  0.00  0.00    -0.170 A 
+ATOM      6  C   UNL A   1      73.204  71.042  48.756  0.00  0.00    +0.034 A 
+ATOM      7  C   UNL A   1      69.698  70.877  50.337  0.00  0.00    +0.041 C 
+ATOM      8  N   UNL A   1      74.425  71.160  49.292  0.00  0.00    -0.279 N 
+ATOM      9  C   UNL A   1      72.991  71.150  50.940  0.00  0.00    +0.093 A 
+ATOM     10  N   UNL A   1      74.304  71.226  50.607  0.00  0.00    -0.173 NA
+ATOM     11  H   UNL A   1      75.334  71.198  48.779  0.00  0.00    +0.189 HD
+ENDROOT
+BRANCH   9  12
+ATOM     12  C   UNL A   1      72.559  71.198  52.359  0.00  0.00    +0.037 C 
+ATOM     13  C   UNL A   1      73.451  71.127  53.365  0.00  0.00    +0.093 C 
+BRANCH  13  14
+ATOM     14  C   UNL A   1      73.053  71.173  54.790  0.00  0.00    +0.330 C 
+ATOM     15  O   UNL A   1      71.940  70.810  55.145  0.00  0.00    -0.246 OA
+BRANCH  14  16
+ATOM     16  O   UNL A   1      73.937  71.623  55.705  0.00  0.00    -0.477 OA
+ATOM     17  H   UNL A   1      73.712  71.668  56.646  0.00  0.00    +0.295 HD
+ENDBRANCH  14  16
+ENDBRANCH  13  14
+ENDBRANCH   9  12
+TORSDOF 3
+ENDMDL

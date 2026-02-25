@@ -1,0 +1,7 @@
+!r2SCAN-3c TightSCF OPT
+
+%pal
+  nprocs 16
+end
+
+* xyzfile 0 1 1-N-Me-7-aza.xyz
