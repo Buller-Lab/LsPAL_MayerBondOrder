@@ -6,4 +6,4 @@ The `opt` folder contains the inputs and outputs for the generation of the optim
 
 The `Bond` folder contains the Single Point calculations containing the Mayer Bond Order calculation.
 
-The `Docking` folder contains the Docking inputs and outputs from Smina for all substrates; WT and MUT.
+The `Dockings` folder contains the Docking inputs and outputs from Smina for all substrates; WT and MUT.
