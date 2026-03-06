@@ -1,0 +1,8 @@
+! wB97M-V def2-QZVPP RIJCOSX TightSCF Mayer
+
+%pal
+  nprocs 16 
+end
+
+* xyzfile 0 1 1a_opt.xyz
+

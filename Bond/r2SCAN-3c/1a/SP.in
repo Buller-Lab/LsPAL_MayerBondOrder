@@ -1,0 +1,6 @@
+! r2SCAN-3c TightSCF Mayer
+
+%pal nprocs 16 end
+
+* xyzfile 0 1 1a_opt.xyz
+

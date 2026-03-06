@@ -1,0 +1,8 @@
+! wB97M-V def2-QZVPP RIJCOSX TightSCF Mayer
+
+%pal
+  nprocs 16 
+end
+
+* xyzfile 0 1 3-Indoleacrylic_acid_opt.xyz
+
